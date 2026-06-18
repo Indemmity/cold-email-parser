@@ -1,7 +1,7 @@
 [
     {
         "recipient_name": "Priya",
-        "recipient_email": "indemmity@gmail.com",
+        "recipient_email": "priya@example.com",
         "company": "Acme AI",
         "role": "Backend Engineering Intern",
         "job_url": "https://example.com/jobs/backend-intern",
@@ -12,7 +12,7 @@
     },
     {
         "recipient_name": "Marcus Johnson",
-        "recipient_email": "indemmity@gmail.com",
+        "recipient_email": "marcus@example.com",
         "company": "NexGen Health",
         "role": "Software Engineering Intern",
         "job_url": "https://example.com/jobs/sw-intern",
@@ -22,7 +22,7 @@
     },
     {
         "recipient_name": "Emily Torres",
-        "recipient_email": "indemmity@gmail.com",
+        "recipient_email": "emily@example.com",
         "company": "Stacklytics",
         
         "role": "Data Engineering Co-op",
