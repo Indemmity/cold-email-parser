@@ -1,0 +1,53 @@
+[
+    {
+        "recipient_name": "Priya",
+        "recipient_email": "indemmity@gmail.com",
+        "company": "Acme AI",
+        "role": "Backend Engineering Intern",
+        "job_url": "https://example.com/jobs/backend-intern",
+        "personalization_note": "Acme AI recently launched an AI workflow automation product",
+        "candidate_name": "Indemmity Lamare",
+        "candidate_background": "Python developer interested in automation and AI agents",
+        "portfolio_url": "https://github.com/indemmity"
+    },
+    {
+        "recipient_name": "Marcus Johnson",
+        "recipient_email": "indemmity@gmail.com",
+        "company": "NexGen Health",
+        "role": "Software Engineering Intern",
+        "job_url": "https://example.com/jobs/sw-intern",
+        "personalization_note": "NexGen Health is expanding its patient platform team",
+        "candidate_name": "Alex Chen",
+        "candidate_background": "full-stack web developer with experience in healthcare apps"
+    },
+    {
+        "recipient_name": "Emily Torres",
+        "recipient_email": "indemmity@gmail.com",
+        "company": "Stacklytics",
+        
+        "role": "Data Engineering Co-op",
+        "job_url": "https://example.com/jobs/data-coop",
+        "personalization_note": "Stacklytics just closed Series B for its analytics platform",
+        "candidate_name": "Alex Chen",
+        "candidate_background": "data pipelines and ETL work in Python and SQL"
+    },
+    {
+        "recipient_name": "James Kim",
+        "recipient_email": "james@example.com",
+        "company": "EcoSync",
+        "role": "Sustainability Data Intern",
+        "job_url": "https://example.com/jobs/sustainability-intern",
+        "candidate_name": "Alex Chen",
+        "candidate_background": "data analysis and environmental science coursework"
+    },
+    {
+        "recipient_name": "Sarah Patel",
+        "recipient_email": "sarah@example.com",
+        "company": "CodeBridge",
+        "role": "Junior Developer Intern",
+        "job_url": "https://example.com/jobs/jr-dev-intern",
+        "personalization_note": "CodeBridge focuses on developer education tools",
+        "candidate_name": "Alex Chen",
+        "candidate_background": "teaching assistant experience and full-stack projects"
+    }
+]
